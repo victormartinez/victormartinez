@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- **About me** -->
+
+- 🛠️ Engaged to help startups to build digital products
+- 🐍 Senior Software Engineer working (mostly) with Python
+- 🚀 Experience with startup environments
+- ⚓ Kubernetes - CI/CD - Scalability
+- 🔎 Mentorship - business - hiring
+- 📫 _vcrmartinez [at] gmail [dot] com_
+- 🌐 [vcrmartinez.com](vcrmartinez.com)
